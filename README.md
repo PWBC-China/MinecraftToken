@@ -1,6 +1,6 @@
 # MinecraftToken
-A Simple Tool to Grab Minecraft Tokens
-一个简易的小工具，可以用它获取mc的登陆令牌
+A Simple Tool to Grab Minecraft Tokens\n
+一个简易的小工具，可以用它获取mc的登陆令牌\n
 If need help please dm pwbcpwbc@163.com with a title "MCToken"
 
 # Changlog
