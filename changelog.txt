@@ -1,2 +1,0 @@
-Fixed the quit problem of the programm.
-Will restart when dealing with wrong data.
