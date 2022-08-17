@@ -1,4 +1,4 @@
-# MinecraftTokenGrabber
+# MinecraftTokenGrabber我的世界Token刷新器
 ### A Simple Tool to Grab Minecraft Tokens
 ### 一个简易的小工具，可以用它获取mc的登陆令牌
 ### If need help please dm pwbcpwbc@163.com with a title "MCToken"
