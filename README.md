@@ -3,6 +3,9 @@
 ### 一个简易的小工具，可以用它获取mc的登陆令牌
 ### If need help please dm pwbcpwbc@163.com with a title "MCToken"
 ### 如需帮助请以“我的世界token”为主题给pwbcpwbc@163.com 发邮件
+### The releases now have a Digital Signature, if you are not sure whether the software is mine, download
+`https://github.com/PWBC-China/MinecraftToken/blob/v1.0.4/RootIssuer.cer`
+### and install this to the trusted publishers directory, open the signature details again and you'll see whether its valid.
 
 # Usage用法:
 **1.Open the exe.**  
