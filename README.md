@@ -4,7 +4,7 @@
 ### If need help please dm pwbcpwbc@163.com with a title "MCToken"
 ### 如需帮助请以“我的世界token”为主题给pwbcpwbc@163.com 发邮件
 ### The releases now have a Digital Signature, if you are not sure whether the software is mine, download
-`https://github.com/PWBC-China/MinecraftToken/blob/v1.0.4/RootIssuer.cer`
+[https://github.com/PWBC-China/MinecraftToken/blob/v1.0.4/RootIssuer.cer](https://github.com/PWBC-China/MinecraftToken/raw/main/RootIssuer.cer)
 ### and install this to the trusted publishers directory, open the signature details again and you'll see whether its valid.
 
 # Usage用法:
